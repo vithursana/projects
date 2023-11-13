@@ -10,6 +10,12 @@ body  {
     text-align: center;
     color: #ffffff;
 }
+.header--second{
+    font-weight: 300;
+    font-size:  42px;
+    text-align: center;
+    color: #ffffff;
+}
 
 .header--secondary{
     font-weight: 300;
